@@ -10,7 +10,7 @@ Repositório com materiais apresentados no **Congresso Brasileiro de Geotecnolog
 
 * Material elaborado por: Felipe Sodré Mendes Barros
 * Contatos: felilpe.b4rros [at] gmail.com  
-* Github: [FelipeSBarros](github.com/FelipeSBarros)
+* Github: [FelipeSBarros](https://github.com/FelipeSBarros/)
 * Facebook: [felipe.sodre1](https://www.facebook.com/felipe.sodre1)  
 * Twitter: [@FelipeSMBarros](https://twitter.com/FelipeSMBarros)  
 * YouTube: [GeoCastBrasil](https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ)  
