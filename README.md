@@ -4,7 +4,7 @@ Repositório com materiais apresentados no **Congresso Brasileiro de Geotecnolog
 
 ## Tutorial:
 * **["Análise Espacial no sistema R com foco em Biodiversidade"](https://felipesbarros.github.io/CongressoGeoBiodiversidadeI/AnaliseEspacialBiodiversidade.html)**  
-* [Slides](https://felipesbarros.github.io/CongressoGeoBiodiversidadeI/CBGEO_AnaliseEspacialBiodiversidade_FelipeBarros_24_07.pdf)  
+* **[Slides](https://felipesbarros.github.io/CongressoGeoBiodiversidadeI/CBGEO_AnaliseEspacialBiodiversidade_FelipeBarros_24_07.pdf)**  
 
 **Entenda mais sobre a análise espacial Função K de Ripley!**
 ![](img/FuncaodeK.png)
